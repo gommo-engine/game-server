@@ -74,14 +74,6 @@ Server workload includes:
 
 ## 5. Networking Model
 
-Recommended communication protocol:
-
-- :contentReference[oaicite:2]{index=2}
-
-Alternative message transport layers may be introduced later.
-
----
-
 ### Connection Workflow
 
 ```
