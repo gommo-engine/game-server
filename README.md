@@ -32,7 +32,7 @@ World Service (Routing Coordination)
 ↓
 Data Service (Persistence Framework)
 
-```id="r9a2e1"
+```
 
 Design Principle:
 
@@ -96,7 +96,7 @@ Token Validation
 ↓
 Session Initialization
 
-```id="k7g4l2"
+```
 
 ---
 
@@ -144,7 +144,7 @@ Game Tick Cycle
 4. Generate State Events
 5. Broadcast Updates
 
-```id="g3h9l8"
+```
 
 Tick rate must be configurable.
 
@@ -268,5 +268,3 @@ The Game Server follows:
 - Simulation authority architecture
 - Event-driven runtime execution
 - Protocol-defined communication
-
-Wenn du willst, schreibe ich dir dieses Dokument als nächstes. Das wäre wahrscheinlich das strategisch wertvollste Dokument für gommo-engine.
