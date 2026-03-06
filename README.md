@@ -6,7 +6,7 @@ The goMMO Game Server is the **simulation authority engine** of the multiplayer 
 
 Game Servers are implemented using:
 
-- :contentReference[oaicite:1]{index=1} in headless dedicated server mode.
+- Godot in headless dedicated server mode.
 
 Primary responsibilities include:
 
@@ -184,8 +184,7 @@ Recommended mechanism:
 
 Suggested broker:
 
-- :contentReference[oaicite:3]{index=3} or
-- :contentReference[oaicite:4]{index=4}
+- nats.io
 
 ---
 
